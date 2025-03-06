@@ -1,0 +1,20 @@
+<?php
+return [
+    'career_profile' => 'Profil Karir',
+    'education' => 'Pendidikan',
+    'languages' => 'Bahasa',
+    'interest' => 'Minat dan Hobi',
+    'experiences' => 'Pengalaman',
+    'projects' => 'Proyek',
+    'skills' => 'Keterampilan & Keahlian',
+    'course' => 'Kursus',
+    'certificate' => 'Sertifikat',
+    'title_wait_download' => 'Harap Tunggu',
+    'text_wait_download' => 'Mengunduh CV Resume',
+    'network_error' => 'Kesalahan jaringan, silakan coba lagi!',
+    'title_download_complete' => 'Unduhan Selesai',
+    'text_download_complete' => 'CV Resume Anda berhasil diunduh',
+    'title_download_error' => 'Kesalahan Unduhan',
+    'text_download_error' => 'Terjadi kesalahan saat mengunduh CV Resume',
+    'download_exceeded' => 'Untuk alasan keamanan, Anda hanya dapat mengunduh CV Resume PDF maksimal 10 kali per hari.',
+];

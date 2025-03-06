@@ -1,0 +1,23 @@
+<?php
+return [
+    'career_profile' => 'Career Profile',
+    'education' => 'Education',
+    'languages' => 'Languages',
+    'interest' => 'Interests And Hobbies',
+    'experiences' => 'Experiences',
+    'projects' => 'Projects',
+    'skills' => 'Skills & Proficiency',
+    'course' => 'Course',
+    'certificate' => 'Certificate',
+    'title_wait_download' => 'Please wait',
+    'text_wait_download' => 'Downloading CV Resume',
+    'network_error' => 'Network error, Please try again!',
+    'title_download_complete' => 'Download complete',
+    'text_download_complete' => 'Your CV resume has been successfully downloaded',
+    'title_download_error' => 'Error download',
+    'text_download_error' => 'An error occurred while downloading CV resume',
+    'download_exceeded' => 'For security reasons, you can download PDF CV Resume for 10 times a day.',
+    'ads_download' => 'This free template contains advertising. please proceed few steps and get link to download pdf file.',
+    'pdf_file_success' => 'Congratulations,CV Resume for PDF file successfully created. Please download the PDF file.',
+    'info_download' => 'Use premium templates for instant download without ads',
+];
